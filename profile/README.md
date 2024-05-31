@@ -1,1 +1,1 @@
-<img src='https://cdn.nologic.zip/pics/ultimate-hacker.png'>
+<img src='https://cdn.greasy.men/pics/ultimate-hacker.png'>
